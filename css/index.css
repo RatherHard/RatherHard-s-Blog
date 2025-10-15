@@ -2192,7 +2192,7 @@ figure.highlight pre .javascript .function {
 }
 .type-404 .error-content {
   overflow: hidden;
-  margin: 0 20;
+  margin: 0 auto;
   width: 1176px;
   height: 360px;
 }
@@ -2268,6 +2268,7 @@ figure.highlight pre .javascript .function {
 .type-404 .nc {
   margin-top: 5%;
   width: 1176px;
+  margin: 0 auto;
   padding: 0 20px;
 }
 .type-404 #footer {
