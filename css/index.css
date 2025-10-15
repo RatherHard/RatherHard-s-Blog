@@ -2176,6 +2176,14 @@ figure.highlight pre .javascript .function {
 .container .gist table td {
   border: none;
 }
+.type-404 {
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -o-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
 .type-404 .error-content {
   overflow: hidden;
   margin: 0 20;
@@ -2246,7 +2254,7 @@ figure.highlight pre .javascript .function {
   }
 }
 .type-404 .error-content .error-info .error_subtitle {
-  margin-top: -3em;
+  margin-top: -5em;
   word-break: break-word;
   font-size: 1.6em;
   -webkit-line-clamp: 2;
