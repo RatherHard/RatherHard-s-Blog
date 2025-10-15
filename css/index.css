@@ -2178,7 +2178,8 @@ figure.highlight pre .javascript .function {
 }
 .type-404 .error-content {
   overflow: hidden;
-  margin: 0 20px;
+  margin: 0 auto;
+  width: 1176px;
   height: 360px;
 }
 @media screen and (max-width: 768px) {
