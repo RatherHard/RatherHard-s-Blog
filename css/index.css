@@ -2178,7 +2178,7 @@ figure.highlight pre .javascript .function {
 }
 .type-404 .error-content {
   overflow: hidden;
-  margin: 0 auto;
+  margin: 0 20;
   width: 1176px;
   height: 360px;
 }
@@ -2238,11 +2238,11 @@ figure.highlight pre .javascript .function {
 }
 .type-404 .error-content .error-info .error_title {
   margin-top: -0.6em;
-  font-size: 9em;
+  font-size: 5em;
 }
 @media screen and (max-width: 768px) {
   .type-404 .error-content .error-info .error_title {
-    font-size: 8em;
+    font-size: 4em;
   }
 }
 .type-404 .error-content .error-info .error_subtitle {
