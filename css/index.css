@@ -2177,6 +2177,12 @@ figure.highlight pre .javascript .function {
   border: none;
 }
 .type-404 {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
   -webkit-box-pack: center;
   -moz-box-pack: center;
   -o-box-pack: center;
@@ -2245,16 +2251,16 @@ figure.highlight pre .javascript .function {
   }
 }
 .type-404 .error-content .error-info .error_title {
-  margin-top: -0.6em;
-  font-size: 5em;
+  margin-top: -0.5em;
+  font-size: 4em;
 }
 @media screen and (max-width: 768px) {
   .type-404 .error-content .error-info .error_title {
-    font-size: 4em;
+    font-size: 3em;
   }
 }
 .type-404 .error-content .error-info .error_subtitle {
-  margin-top: -5em;
+  margin-top: -1em;
   word-break: break-word;
   font-size: 1.6em;
   -webkit-line-clamp: 2;
