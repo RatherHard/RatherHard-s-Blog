@@ -2176,20 +2176,6 @@ figure.highlight pre .javascript .function {
 .container .gist table td {
   border: none;
 }
-.type-404 {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: box;
-  display: flex;
-  -webkit-box-pack: center;
-  -moz-box-pack: center;
-  -o-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
 .type-404 .error-content {
   overflow: hidden;
   margin: 0 auto;
@@ -2268,7 +2254,6 @@ figure.highlight pre .javascript .function {
 .type-404 .nc {
   margin-top: 5%;
   width: 1176px;
-  margin: 0 auto;
   padding: 0 20px;
 }
 .type-404 #footer {
